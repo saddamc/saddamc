@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <a href="https://saddam.thenexcraft.net"><img src="https://img.shields.io/badge/🌐%20Visit%20Website-saddam.thenexcraft.net-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Visit Website" /></a>
+</p>
+
+<p align="center">
   <a href="https://saddam.thenexcraft.net"><img src="https://img.shields.io/badge/Portfolio-saddam.thenexcraft.net-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/saddamdev/"><img src="https://img.shields.io/badge/LinkedIn-saddamdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
   <a href="mailto:saddam13bd@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
@@ -34,9 +38,9 @@ const saddam = {
   location:    "Bangladesh · works across US & UK time zones",
   focus:       ["SaaS dashboards", "ERP & accounting", "Booking & dispatch", "E-commerce"],
   coreStack:   ["Next.js", "React", "TypeScript", "Node.js", "Express", "PostgreSQL", "MongoDB"],
-  alsoShips:   ["WordPress", "Laravel", "Firebase", "Docker", "VPS"],
+  alsoShips:   ["Firebase", "Docker", "VPS", "Prisma"],
   principles:  ["Clean architecture", "Type-safe code", "Fast UI", "Clear communication"],
-  currently:   "Building business software for real clients",
+  currently:   "Building production-grade business software for clients in the US & UK",
   openTo:      "Freelance projects · Remote full-time roles",
 };
 ```
@@ -64,7 +68,7 @@ const saddam = {
     </td>
     <td width="50%" valign="top">
       <h3>🛒 E-commerce & CMS</h3>
-      Custom Next.js stores, Shopify setups and WordPress / Laravel business websites.
+      Custom Next.js stores, Shopify setups and fast, SEO-friendly business websites.
     </td>
   </tr>
 </table>
@@ -81,15 +85,11 @@ const saddam = {
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,php,laravel&theme=dark" alt="Backend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
     <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark" alt="Database" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>CMS</b></td>
-    <td><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="CMS" /></td>
   </tr>
   <tr>
     <td align="center"><b>DevOps & Tools</b></td>
@@ -110,7 +110,7 @@ const saddam = {
       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>📊 ShaplaTrade ERP</h3>
@@ -130,10 +130,11 @@ const saddam = {
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🏭 Fareetex International</h3>
-      <p>B2B website for a garment & machinery importer — product catalog, inquiries and a fast, SEO-friendly build.</p>
+      <h3>🧵 <a href="https://www.plainstitch.net/">Plain Stitch</a></h3>
+      <p>Headless e-commerce storefront built on Next.js — fast, SEO-friendly product browsing and checkout backed by a decoupled commerce API.</p>
       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Headless%20Commerce-000?style=flat-square&logo=shopify&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
   </tr>
