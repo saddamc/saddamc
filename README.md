@@ -37,7 +37,7 @@ const saddam = {
   brand:       "The Nex Craft",
   location:    "Bangladesh · works across US & UK time zones",
   focus:       ["SaaS dashboards", "ERP & accounting", "Booking & dispatch", "E-commerce"],
-  coreStack:   ["Next.js", "React", "TypeScript", "Node.js", "Express", "PostgreSQL", "MongoDB"],
+  coreStack:   ["Next.js", "React", "TypeScript", "Node.js", "Express", "Fastify", "PostgreSQL", "MongoDB"],
   alsoShips:   ["Firebase", "Docker", "VPS", "Prisma"],
   principles:  ["Clean architecture", "Type-safe code", "Fast UI", "Clear communication"],
   currently:   "Building production-grade business software for clients in the US & UK",
@@ -85,7 +85,10 @@ const saddam = {
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Node.js, Express and Prisma" />
+      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+    </td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
