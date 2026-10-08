@@ -87,7 +87,7 @@ const saddam = {
     <td align="center"><b>Backend</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Node.js, Express and Prisma" />
-      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+      &nbsp;<img src="assets/fastify.svg" width="48" height="48" alt="Fastify" />
     </td>
   </tr>
   <tr>
